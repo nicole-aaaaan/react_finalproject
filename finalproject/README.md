@@ -24,13 +24,13 @@ If you are developing a production application, we recommend using TypeScript wi
 cd YOUR_PROJECT_NAME
 (請將 YOUR_PROJECT_NAME 換成你實際的資料夾名稱，例如 cd finance-app)
 
-###2. 安裝套件（第一次拿到專案時執行即可）
+2. 安裝套件（第一次拿到專案時執行即可）
 pnpm install
 
-###3. 啟動開發伺服器
+3. 啟動開發伺服器
 pnpm dev
 
-###4. 開啟網頁
+4. 開啟網頁
 啟動後，終端機會出現類似以下的畫面：
 
 Plaintext
