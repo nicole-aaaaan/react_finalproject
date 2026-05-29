@@ -40,3 +40,7 @@ Plaintext
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
 在 Git Bash 中按住 Ctrl 鍵並用滑鼠點擊 http://localhost:5173/ 網址，或者直接複製網址貼到瀏覽器，就能直接開啟網站囉！
+
+## 未來展望
+### 1.可以上傳食物的照片 紀錄一天攝取的卡路里/花費
+### 2.多人分帳系統 解決多人出遊的經費問題 (可能可以上傳明細
